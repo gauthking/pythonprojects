@@ -1,3 +1,6 @@
+
+"""THIS CODE IS STILL UNDER DEVELOPMENT"""
+
 print("A FARMER WITH A FOX, A GOOSE AND A SACK OF GRAINS WANT TO CROSS THE RIVER FROM EAST TO WEST SIDE.\nBut unfortunately the boat can allow only the farmer and one of his possessions.\nSolve this task of transporting the farmer and his items to the west side of the river.\nAnd yeah ITS NOT AN EASY TASK, CHECK THE HINT BELOW FOR MORE INFO XD:")
 print("The farmer is on the east side with fox,grain and the goose. INPUT the possession to be taken by the farmer")
 print("\n\n")
